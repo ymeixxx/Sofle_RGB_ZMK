@@ -1657,7 +1657,7 @@
 &bt BT_CLR  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4                              &kp SLASH     &kp PRCNT  &kp LPAR  &kp RPAR      &trans  &kp DELETE
 &td_btr     &kp PSCRN     &kp INS       &kp UP        &kp AT        &kp PRCNT                                 &kp ASTERISK  &kp N7     &kp N8    &kp N9        &trans  &trans
 &trans      &stm          &kp LEFT      &kp DOWN      &kp RIGHT     &kp DLLR                                  &kp MINUS     &kp N4     &kp N5    &kp N6        &trans  &trans
-&trans      &trans        &trans        &kp C_PREV    &kp C_NEXT    &kp HASH      &kp C_PLAY_PAUSE    &trans  &kp PLUS      &kp N1     &kp N2    &kp N3        &trans  &trans
+&trans      &trans        &kp PIPE      &kp C_PREV    &kp C_NEXT    &kp HASH      &kp C_PLAY_PAUSE    &trans  &kp PLUS      &kp N1     &kp N2    &kp N3        &trans  &trans
                           &trans        &trans        &trans        &trans        &trans              &trans  &kp N0        &kp N0     &kp DOT   &kp KP_ENTER
             >;
 
